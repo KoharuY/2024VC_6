@@ -1,0 +1,69 @@
+@charset "utf-8";
+header {
+    height: 170px;
+    background-color: #4E2B2B;
+    width: auto;
+}
+
+header h1 {
+    height: 40px;
+    width: 200px;
+    color: #FF0000;
+    display: inline-block;
+    font-size: 2em;
+    border-style: solid;
+    border-color: #FFFFFF;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+header h3 {
+    color: #FFFFFF;
+}
+body info h4 {
+    height: 70px;
+    width: auto;
+    background-color: #4E2B2B;
+    color: #FFFFFF;
+}
+.big .menu h2 {
+    width: 100%;
+}
+
+.box {
+    float: left;
+    width: 33%;
+	height: 33%;
+	background-color: #4E2B2B;
+}
+
+.menu {
+    width: 100%;
+    background-color: #4E2B2B;
+    display: flex;
+    flex-wrap: wrap;
+    color: #FFFFFF;
+}
+.big {
+    width: 100%;
+    font-family: "ＭＳ ゴシック";
+}
+.r {
+    background-color: #4E2B2B;
+    color: #FFFFFF;
+}
+img {
+    width: 100%;
+}
+span {
+    color: #FFD037;
+    text-decoration: underline;
+}
+body {
+    background-image: url(mise1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
