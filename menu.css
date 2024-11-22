@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.big {
+    width: 100%;
+    font-family: "ＭＳ ゴシック";
+    background-color: #4E2B2B;
+    color: #FFFFFF;
+	display: flex;
+    flex-wrap: wrap;
+}
+.r {
+	width: 1000px;
+	height: 550px;
+}
+.box {
+    float: left;
+    width: 300px;
+    height: 450px;
+    background-color: #4E2B2B;
+}
+img {
+    width: 100%;
+}
+body {
+    background-image: url(mise1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.big h2 {
+    width: 0%;
+}

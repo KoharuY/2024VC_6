@@ -1,6 +1,6 @@
 @charset "utf-8";
 header {
-    height: 170px;
+    height: 425px;
     background-color: #4E2B2B;
     width: auto;
 }
@@ -32,16 +32,9 @@ body info h4 {
     width: 100%;
 }
 
-.box {
-    float: left;
-    width: 33%;
-	height: 33%;
-	background-color: #4E2B2B;
-}
-
 .menu {
     width: 100%;
-    background-color: #4E2B2B;
+    background-color: #985656;
     display: flex;
     flex-wrap: wrap;
     color: #FFFFFF;
@@ -55,7 +48,7 @@ body info h4 {
     color: #FFFFFF;
 }
 img {
-    width: 100%;
+    width: 20%;
 }
 span {
     color: #FFD037;
