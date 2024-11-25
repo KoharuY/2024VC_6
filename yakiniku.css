@@ -3,6 +3,7 @@ header {
     height: 425px;
     background-color: #4E2B2B;
     width: auto;
+	float: none;
 }
 
 header h1 {
@@ -24,28 +25,33 @@ header h3 {
 }
 body info h4 {
     height: 70px;
-    width: auto;
+    width: 70%;
     background-color: #4E2B2B;
     color: #FFFFFF;
+    float: left;	
 }
 .big .menu h2 {
     width: 100%;
 }
 
 .menu {
-    width: 100%;
+    width: 70%;
     background-color: #985656;
     display: flex;
     flex-wrap: wrap;
     color: #FFFFFF;
+    float: left;
 }
 .big {
     width: 100%;
     font-family: "ＭＳ ゴシック";
 }
 .r {
+    float: right;
     background-color: #4E2B2B;
     color: #FFFFFF;
+    width: 29%;
+    border: medium groove #000000;
 }
 img {
     width: 20%;
